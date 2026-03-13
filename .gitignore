@@ -1,0 +1,47 @@
+# Mac file finder metadata
+.DS_Store
+# Windows file metadata
+._*
+# Thumbnail image caches
+Thumbs.db
+ethumbs.db
+# MS Office temporary file
+~*
+# Emacs backup file
+*~
+# VI backup file
+*.swp
+# Other backup files
+*.tmp
+*.bak
+*.bk
+
+# target directories
+[Bb]in/
+[Bb]uild/
+[Oo]ut/
+cmake-build-*/
+
+# C
+*.o
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+
+# Debugger
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDEs
+.vs*/
+.idea/
+
